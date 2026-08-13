@@ -1,4 +1,4 @@
-<h1 align="center">Xin chào, mình là [Tên của bạn] 👋</h1>
+<h1 align="center">Xin chào, mình là ϑÕ ϑĂท ՇɦÁ¡ 👋</h1>
 <h3 align="center">Sinh viên An toàn thông tin | Định hướng SOC Analyst 🛡️</h3>
 
 <p align="center">
