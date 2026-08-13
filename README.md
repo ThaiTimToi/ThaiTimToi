@@ -6,16 +6,13 @@
 </p>
 
 <p align="center">
-  <a href="https://facebook.com/your-facebook-id" target="_blank">
+  <a href="https://www.facebook.com/thai.a1.vng" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://x.com/your-x-id" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/your-linkedin-id" target="_blank">
+  <a href="https://www.linkedin.com/in/th%C3%A1i-v%C3%B5-v%C4%83n-767993429/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com" target="_blank">
+  <a href="mailto:thaivo.security@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -50,10 +47,8 @@
 ### 📜 Chứng chỉ (Certifications)
 
 <!-- Liệt kê chứng chỉ bạn có hoặc đang học, ví dụ: -->
-- [ ] CompTIA Security+
-- [ ] CompTIA CySA+
+- [ ] Github rikkeisoft
 - [ ] Google Cybersecurity Certificate
-- [ ] Cisco CCNA / CyberOps Associate
 - [ ] ...
 
 ---
